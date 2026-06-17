@@ -1,0 +1,5 @@
+model,accuracy,f1,precision,recall
+RandomForest,0.8,0.8,0.6666666666666666,1.0
+SVM,0.8,0.8,0.6666666666666666,1.0
+LogisticRegression,0.8,0.6666666666666666,1.0,0.5
+MLP,0.8,0.6666666666666666,1.0,0.5
